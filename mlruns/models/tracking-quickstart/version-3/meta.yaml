@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723467228521
+current_stage: None
+description: ''
+last_updated_timestamp: 1723467228521
+name: tracking-quickstart
+run_id: 025ab86c95f74b9895c7555603c95fdc
+run_link: ''
+source: mlflow-artifacts:/277988104319681288/025ab86c95f74b9895c7555603c95fdc/artifacts/nasa_near_earth
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/277988104319681288/025ab86c95f74b9895c7555603c95fdc/artifacts/nasa_near_earth
+user_id: null
+version: 3

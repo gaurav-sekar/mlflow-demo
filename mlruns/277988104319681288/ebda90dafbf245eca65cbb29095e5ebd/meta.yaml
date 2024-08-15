@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277988104319681288/ebda90dafbf245eca65cbb29095e5ebd/artifacts
+end_time: 1723716988754
+entry_point_name: ''
+experiment_id: '277988104319681288'
+lifecycle_stage: active
+run_id: ebda90dafbf245eca65cbb29095e5ebd
+run_name: victorious-owl-986
+run_uuid: ebda90dafbf245eca65cbb29095e5ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723716939410
+status: 3
+tags: []
+user_id: gaurav.s

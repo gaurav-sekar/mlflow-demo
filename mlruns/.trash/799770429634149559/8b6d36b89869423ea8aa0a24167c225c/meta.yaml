@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/799770429634149559/8b6d36b89869423ea8aa0a24167c225c/artifacts
+deleted_time: 1723467154153
+end_time: 1723220999228
+entry_point_name: ''
+experiment_id: '799770429634149559'
+lifecycle_stage: deleted
+run_id: 8b6d36b89869423ea8aa0a24167c225c
+run_name: rare-newt-886
+run_uuid: 8b6d36b89869423ea8aa0a24167c225c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723220908123
+status: 3
+tags: []
+user_id: gaurav.s

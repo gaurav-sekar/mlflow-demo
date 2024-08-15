@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277988104319681288/025ab86c95f74b9895c7555603c95fdc/artifacts
+end_time: 1723467232821
+entry_point_name: ''
+experiment_id: '277988104319681288'
+lifecycle_stage: active
+run_id: 025ab86c95f74b9895c7555603c95fdc
+run_name: adventurous-crow-328
+run_uuid: 025ab86c95f74b9895c7555603c95fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723467212884
+status: 3
+tags: []
+user_id: gaurav.s

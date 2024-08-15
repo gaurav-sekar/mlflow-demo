@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/277988104319681288/8bd0efae428c423faaf4a6c77ebd7a53/artifacts
+end_time: 1723555081492
+entry_point_name: ''
+experiment_id: '277988104319681288'
+lifecycle_stage: active
+run_id: 8bd0efae428c423faaf4a6c77ebd7a53
+run_name: classy-sheep-823
+run_uuid: 8bd0efae428c423faaf4a6c77ebd7a53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723555057225
+status: 3
+tags: []
+user_id: gaurav.s

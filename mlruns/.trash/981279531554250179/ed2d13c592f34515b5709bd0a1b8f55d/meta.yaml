@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/981279531554250179/ed2d13c592f34515b5709bd0a1b8f55d/artifacts
+deleted_time: 1723467162969
+end_time: 1723221184178
+entry_point_name: ''
+experiment_id: '981279531554250179'
+lifecycle_stage: deleted
+run_id: ed2d13c592f34515b5709bd0a1b8f55d
+run_name: capricious-stag-871
+run_uuid: ed2d13c592f34515b5709bd0a1b8f55d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723221149844
+status: 3
+tags: []
+user_id: gaurav.s
